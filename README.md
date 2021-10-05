@@ -3,7 +3,6 @@
 <p><a href="https://constanzat.github.io/clone-google/" >Puede ver el proyecto terminado en este link.</a></p>
 
 <h2>Modelo</h2>
-![image](https://user-images.githubusercontent.com/72681000/136082626-5e2f883c-aee8-4373-93d3-dcb0b23c8b20.png)
 ![image](https://user-images.githubusercontent.com/72681000/136082982-617ec792-810d-4e4c-9392-6daa4775e680.png)
 
 
